@@ -14,7 +14,6 @@ import com.coderscampus.tristanassignment10.dto.DayResponse;
 import com.coderscampus.tristanassignment10.dto.WeekResponse;
 
 @RestController
-
 public class SpoonacularController {
 	
 	// url base && mealplan are stored in the application.properties
